@@ -1,5 +1,5 @@
 # Green-Sea
-A small Raiden style arcade game created using C# and Splashkit. 
+A small Raiden style arcade game created using C# and Splashkit. This game uses the dotnet platform, which must be installed on your system to run the game.
 
 
 --Instructions--
