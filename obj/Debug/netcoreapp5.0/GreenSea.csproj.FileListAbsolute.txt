@@ -1,0 +1,32 @@
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.exe
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.deps.json
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.runtimeconfig.json
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.runtimeconfig.dev.json
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.dll
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\ref\GreenSea.dll
+C:\Uni\Code\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.pdb
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.csprojAssemblyReference.cache
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.AssemblyInfoInputs.cache
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.AssemblyInfo.cs
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.csproj.CoreCompileInputs.cache
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.dll
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\ref\GreenSea.dll
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.pdb
+C:\Uni\Code\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.genruntimeconfig.cache
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.csprojAssemblyReference.cache
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.AssemblyInfoInputs.cache
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.AssemblyInfo.cs
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.csproj.CoreCompileInputs.cache
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.dll
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\ref\GreenSea.dll
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.pdb
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.exe
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.deps.json
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.runtimeconfig.json
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.runtimeconfig.dev.json
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.dll
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\ref\GreenSea.dll
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\bin\Debug\netcoreapp5.0\GreenSea.pdb
+C:\Uni\Code\Archive\771 Object Oriented Development\GreenSea\obj\Debug\netcoreapp5.0\GreenSea.genruntimeconfig.cache
